@@ -1,0 +1,33 @@
+﻿@model JobOffer.ViewModels.UserApplications.UserApplicationListVM
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Applicant Name</th>
+            <th>Job Offer Name</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.UserApplications) {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.ApplicationName</td>
+            <td>@item.JobOfferName</td>
+            <td>@item.Status</td>
+            <td>
+                @Html.ActionLink("Accept", "Accept","UserApplications", new { applicationId = item.Id}) |
+                @Html.ActionLink("Reject", "Reject", "UserApplications", new { applicationId = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", "UserApplications", new { applicationId = item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
