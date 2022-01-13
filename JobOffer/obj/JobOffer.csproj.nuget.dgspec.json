@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angel\\Desktop\\ASP.NET - JobOffer - Todor Ivanov\\4.ManyToMany_UserApplications\\JobOffer\\JobOffer\\JobOffer.csproj": {}
+    "E:\\Programming\\MY PROJECTS\\Job Offer\\JobOffer_ASP.NET\\JobOffer\\JobOffer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angel\\Desktop\\ASP.NET - JobOffer - Todor Ivanov\\4.ManyToMany_UserApplications\\JobOffer\\JobOffer\\JobOffer.csproj": {
+    "E:\\Programming\\MY PROJECTS\\Job Offer\\JobOffer_ASP.NET\\JobOffer\\JobOffer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angel\\Desktop\\ASP.NET - JobOffer - Todor Ivanov\\4.ManyToMany_UserApplications\\JobOffer\\JobOffer\\JobOffer.csproj",
+        "projectUniqueName": "E:\\Programming\\MY PROJECTS\\Job Offer\\JobOffer_ASP.NET\\JobOffer\\JobOffer.csproj",
         "projectName": "JobOffer",
-        "projectPath": "C:\\Users\\angel\\Desktop\\ASP.NET - JobOffer - Todor Ivanov\\4.ManyToMany_UserApplications\\JobOffer\\JobOffer\\JobOffer.csproj",
+        "projectPath": "E:\\Programming\\MY PROJECTS\\Job Offer\\JobOffer_ASP.NET\\JobOffer\\JobOffer.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angel\\Desktop\\ASP.NET - JobOffer - Todor Ivanov\\4.ManyToMany_UserApplications\\JobOffer\\JobOffer\\obj\\",
+        "outputPath": "E:\\Programming\\MY PROJECTS\\Job Offer\\JobOffer_ASP.NET\\JobOffer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -46,6 +46,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[5.0.9, )"

@@ -1,7 +1,9 @@
+using AutoMapper;
 using JobOffer.Filters;
 using JobOffer.Repositories;
 using JobOffer.Repositories.Abstraction;
 using JobOffer.Repositories.Implementatons;
+using JobOffer.Services.AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -33,6 +35,10 @@ namespace JobOffer
             {
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
+
+            services.AddAutoMapper(m => m.AddProfile(new AutoMapperConfiguration()));
+
+
             services.AddScoped<IUsersRepository, UsersRepository>();            
             services.AddScoped<IJobOffersRepository, JobOffersRepository>();
             services.AddScoped<IUserApplicationRepository, UserApplicationRepository>();

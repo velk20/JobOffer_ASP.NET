@@ -894,3 +894,15 @@ C:\Users\angel\Desktop\4.ManyToMany_UserApplications\JobOffer\JobOffer\obj\Debug
 C:\Users\angel\Desktop\4.ManyToMany_UserApplications\JobOffer\JobOffer\obj\Debug\net5.0\ref\JobOffer.dll
 C:\Users\angel\Desktop\4.ManyToMany_UserApplications\JobOffer\JobOffer\obj\Debug\net5.0\JobOffer.pdb
 C:\Users\angel\Desktop\4.ManyToMany_UserApplications\JobOffer\JobOffer\obj\Debug\net5.0\JobOffer.genruntimeconfig.cache
+E:\Programming\MY PROJECTS\Job Offer\JobOffer_ASP.NET\JobOffer\obj\Debug\net5.0\JobOffer.csproj.AssemblyReference.cache
+E:\Programming\MY PROJECTS\Job Offer\JobOffer_ASP.NET\JobOffer\obj\Debug\net5.0\JobOffer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\MY PROJECTS\Job Offer\JobOffer_ASP.NET\JobOffer\obj\Debug\net5.0\JobOffer.AssemblyInfoInputs.cache
+E:\Programming\MY PROJECTS\Job Offer\JobOffer_ASP.NET\JobOffer\obj\Debug\net5.0\JobOffer.AssemblyInfo.cs
+E:\Programming\MY PROJECTS\Job Offer\JobOffer_ASP.NET\JobOffer\obj\Debug\net5.0\JobOffer.csproj.CoreCompileInputs.cache
+E:\Programming\MY PROJECTS\Job Offer\JobOffer_ASP.NET\JobOffer\obj\Debug\net5.0\JobOffer.MvcApplicationPartsAssemblyInfo.cs
+E:\Programming\MY PROJECTS\Job Offer\JobOffer_ASP.NET\JobOffer\obj\Debug\net5.0\JobOffer.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\MY PROJECTS\Job Offer\JobOffer_ASP.NET\JobOffer\obj\Debug\net5.0\JobOffer.RazorAssemblyInfo.cache
+E:\Programming\MY PROJECTS\Job Offer\JobOffer_ASP.NET\JobOffer\obj\Debug\net5.0\JobOffer.RazorAssemblyInfo.cs
+E:\Programming\MY PROJECTS\Job Offer\JobOffer_ASP.NET\JobOffer\obj\Debug\net5.0\JobOffer.dll
+E:\Programming\MY PROJECTS\Job Offer\JobOffer_ASP.NET\JobOffer\obj\Debug\net5.0\ref\JobOffer.dll
+E:\Programming\MY PROJECTS\Job Offer\JobOffer_ASP.NET\JobOffer\obj\Debug\net5.0\JobOffer.pdb

@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QnZbOiB0zEpM/1OrU3bMON+8QAlini98QYmmxXwHZSvU6nf+AGSSVOcD5lWBrWN2+DUM601e4AJYjnZmjKSQaA==",
+  "dgSpecHash": "NtWssYN6qqu2BzQsovPD5xcXsG652ho0XRYkMMYiNBia9dn8yil4dUATZDh+BgbcLYSJyBSWXSaCAVxmtoSa/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\angel\\Desktop\\ASP.NET - JobOffer - Todor Ivanov\\4.ManyToMany_UserApplications\\JobOffer\\JobOffer\\JobOffer.csproj",
+  "projectFilePath": "E:\\Programming\\MY PROJECTS\\Job Offer\\JobOffer_ASP.NET\\JobOffer\\JobOffer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
